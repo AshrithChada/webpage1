@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body>
+<h1>Deeper than swords: 10 Reasons we're hooked on 'Game of Thrones'</h1>
+<style>
+    p1{
+        color:brown;
+    }
+</style>
+<p1>Ashrith Chada,  Senior Contributor.</p>
+<style>
+    p2{
+        color:blue;
+    }
+</style>
+<p2>Aug 18,2022</p2>
+<p>Once hailed a “big-budget nerd-out,” HBO’s hit series Game of Thrones has gone beyond that, piercing the hearts of many more than the boy nerd demographic alone. Not only do non-nerds watch it, but people (yes, even women) who haven’t historically been into fantasy fall for it. And hard.</p>
+<p>So  what is it about the show that’s so compelling? It has some obvious hooks: The swordfights, the sex, the nakedness, the intrigue – we can certainly indulge in these elements, for a little escape from reality. But the show runs deeper than just fantasy escapism, and hits us on all kinds of other levels. After all, it asks us to get intimately acquainted with the characters, their histories, and their motivations, while simultaneously teaching us that we have no idea what’s going on at all. And who can resist that kind of delightful manipulation?</p>
+<p>Here are a few reasons – with the help of people who analyze and psychoanalyze pop culture for a living – that we are so into this show.</p>
+<a href = "#1. It’s the best “world-building” there is.-header">1. It’s the best “world-building” there is.</a>
+<p>
+<a href ="#2. It’s ridiculously smart: Your brain has no choice but to stay engaged.-header">2. It’s ridiculously smart: Your brain has no choice but to stay engaged.</a>
+</p>
+<img src=https://imageio.forbes.com/blogs-images/alicegwalton/files/2014/07/Dinklage.HBO_.jpg?format=jpg&width=700>
+<p>courtesy HBO</p>
+<style>
+    h2{
+        color:red;
+    }
+</style>
+<h2 id="1. It’s the best “world-building” there is-header.">1. It’s the best “world-building” there is.</h2>
+<p>One of the most obvious values of Game of Thrones is that it’s aimed at adults and it’s not, you know, about kid stuff. Barna Donvovan, PhD, professor of film and media studies at Saint Peter’s University, says that “Game of Thrones is aimed squarely at adults, and it is not campy, self-referential, or comical. It basically does what serious science fiction and fantasy have always done, functioning as a symbolic commentary on the main social and political issues of the day.” In other words, it’s definitely not for the little ones, and even an adult audience has to stay on their toes to follow all the plotlines and innuendos.</p>
+<p>In this vein, Josué Cardona, therapist and founder of GeekTherapy.com, points out that Game of Thrones is much more nuanced than some of its predecessors. “The show is super complex,” he says, “with so many characters and storylines, and it has what I consider some of the best world-building ever done in a TV show. It's more engaging than most shows on TV, because it’s cognitively engaging. While most dramas have multiple threads, none has done it to this extent in the fantasy genre before GoT.”</p>
+<p>Game of Thrones creates a world that we vicariously navigate in every sense – from the topographic opening credits to our love-hate relationships with the complicated (and not always comprehendible) characters. And we’re emotionally invested in what happens next.
+</p>
+<h2 id="2. It’s ridiculously smart: Your brain has no choice but to stay engaged.-header">2. It’s ridiculously smart: Your brain has no choice but to stay engaged.</h2>
+<style>
+    p{
+        color:green;
+    }
+</style>
+<p>In a world of flat, personality-less characters on TV (mostly in the sit-com world), dramas, period pieces, and fantasies have emerged as the cerebral antidotes. And Game of Thrones is arguably one of the smartest, most nuanced shows around, in both plot and language. So smart, in fact, that it can be hard to follow, but doing so is rewarding, since our brains crave the cerebral work the show has us do. Some critics, like the author of this article, have pointed out that shows like Game of Thrones cater to the rising “mass intelligent” and have spawned a whole new genre of TV. With its wry humor, lyrical dialogues, and complicated moral questions, Game of Thrones makes its audience do some serious intellectual work – a welcome activity these days.</p>
+<p>This is a broad look at some of the reasons Game of Thrones has drawn such a wide fan base. What are some others? Please comment below.</p>
+<p>follow me <a href="https://www.instagram.com/aaaashriiiithhh/">@aaaashriiiithhh
+</a> or find me <a href="https://twitter.com/Ashrith26">Twitter.</a></p>
+<label for="fname">Comments:</label>
+<input type="text">
+</body>
+</html>
